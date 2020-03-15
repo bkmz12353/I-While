@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\EPAM Labs\I-while\I-ccikli\I-ccikli\bin\Debug\I-ccikli.exe.config
+C:\Users\User\Desktop\EPAM Labs\I-while\I-ccikli\I-ccikli\bin\Debug\I-ccikli.exe
+C:\Users\User\Desktop\EPAM Labs\I-while\I-ccikli\I-ccikli\bin\Debug\I-ccikli.pdb
+C:\Users\User\Desktop\EPAM Labs\I-while\I-ccikli\I-ccikli\obj\Debug\I-ccikli.csprojAssemblyReference.cache
+C:\Users\User\Desktop\EPAM Labs\I-while\I-ccikli\I-ccikli\obj\Debug\I-ccikli.exe
+C:\Users\User\Desktop\EPAM Labs\I-while\I-ccikli\I-ccikli\obj\Debug\I-ccikli.pdb
